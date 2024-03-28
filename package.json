@@ -1,0 +1,33 @@
+{
+  "name": "gallacherjeromep",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "gallacherjeromep.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/redislis/gallacherjeromep"
+  },
+  "website": "https://github.com/redislis/gallacherjeromep.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "redislis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redislis/gallacherjeromep/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/redislis/gallacherjeromep#readme",
+  "dependencies": {
+    "haroldveronicaq": "1.0.2"
+  }
+}
